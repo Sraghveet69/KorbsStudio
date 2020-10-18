@@ -8,5 +8,3 @@ Hi, I'm Korbs, the developer of Dream Frame, Twitterr, and FalixNodes Desktop/iO
 
 [FalixNodes Help Center](https://help.falixnodes.net) (Official)
 
-[Powercord Installer](https://github.com/dream-frame/powercord-installer)
-
