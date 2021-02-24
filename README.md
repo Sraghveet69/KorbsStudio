@@ -6,7 +6,7 @@ Hi, I'm Korbs, the developer of Dream Frame, Twitterr, and FalixNodes Desktop/iO
 
 [FalixNodes Help Center](https://help.falixnodes.net) (Official)
 
-[Dream Frame](https://dreamframe.korbsstudio.com)
+[Dream Frame](https://dreamframe.korbsstudio.com) (Discontinued)
 
 ### Websites
 [Korbs Studio](https://KorbsStudio.com)
