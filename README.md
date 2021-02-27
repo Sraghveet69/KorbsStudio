@@ -1,5 +1,5 @@
 ## Korbs Studio
-Hi, I'm Korbs, the developer of Dream Frame, Twitterr, and FalixNodes Desktop/iOS app. I also build websites and mostly experience in HTML and CSS, this is also including Electron.
+Hi, I'm Korbs, the developer of Dream Frame and FalixNodes Desktop app. I also build websites and mostly experience in HTML and CSS, this is also including Electron.
 
 ### Main Projects
 [FalixNodes Software](https://software.falixnodes.net) (Official)
