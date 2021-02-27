@@ -2,7 +2,7 @@
 Hi, I'm Korbs, the developer of Dream Frame and FalixNodes Desktop app. I also build websites and mostly experience in HTML and CSS, this is also including Electron.
 
 ### Main Projects
-[FalixNodes Software](https://software.falixnodes.net) (Official)
+[FalixNodes Software](https://software.falixnodes.net) (Official) - Available on [Snap](https://snapcraft.io/falixnodes) and ~~Windows Store~~(soon)
 
 [FalixNodes Help Center](https://help.falixnodes.net) (Official)
 
