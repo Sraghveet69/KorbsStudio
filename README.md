@@ -13,7 +13,7 @@ The help center for FalixNodes has been fully built and designed by me, but I am
 [FalixNodes Help Center](https://help.falixnodes.net) (Official)
 
 ### Dream Frame (Discontinued)
-![image](https://imgur.com/1n7dR7t)
+![image](https://i.imgur.com/1n7dR7t.jpg)
 Dream Frame was the first successful project I've built and created back in 2018, development started mid Feburary and released on May 1st.
 The project was formly known as **Expose X**, as **Dream Frame** was not the first name picked for this project until 2019.
 
