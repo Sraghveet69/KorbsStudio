@@ -17,3 +17,8 @@ Hi, I'm Korbs, the developer of Dream Frame and FalixNodes Desktop app. I also b
 [Installing elementary OS 6.0 New Dark Theme on Older Versions](https://github.com/KorbsStudio/elementary-OS-6.0-Theme-Installer) (elementary OS)
 
 [Fixing Dark Variant on System Settings and Wingpanel](https://github.com/KorbsStudio/elementary-5.1.7-dark-mode-fix) (elementary OS)
+
+### Currently Doing
+Creating a design refresh for [FalixNodes Help Center](https://github.com/FalixNodes-Software/help-center/tree/refresh)
+
+Plan to [re-write content](https://github.com/FalixNodes-Software/help-center/projects/1) for [FalixNodes Help Center](https://github.com/FalixNodes-Software/help-center/tree/refresh)
