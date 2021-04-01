@@ -24,7 +24,7 @@ Since Feburary of 2021, the project has been fully discontinued.
 [Dream Frame](https://dreamframe.korbsstudio.com) (Discontinued)
 
 ## Currently Doing
-![image](https://i.imgur.com/YKRFCSL.png)
+![image](https://i.imgur.com/lfGLYWx.png)
 Creating a design refresh for [FalixNodes Help Center](https://github.com/FalixNodes-Software/help-center/tree/refresh)
 
 Plan to [re-write content](https://github.com/FalixNodes-Software/help-center/projects/1) for [FalixNodes Help Center](https://github.com/FalixNodes-Software/help-center/tree/refresh)
