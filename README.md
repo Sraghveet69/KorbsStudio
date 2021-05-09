@@ -11,6 +11,7 @@ Hi there, I'm Korbs, the developer of Dream Frame and Falix Software Desktop app
 
 ### 💼 Things that I'm currently working on:
  - [FalixNodes Software v2.3.0](https://github.com/FalixNodes-Software/Desktop-App)
+ - [FalixNodes Help Center](https://github.com/FalixNodes-Software/help-center)
 
 
 ### 📫🤝🏻 Contact Me
